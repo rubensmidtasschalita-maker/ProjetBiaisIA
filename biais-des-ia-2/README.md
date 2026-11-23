@@ -8,7 +8,7 @@ Ce projet, réalisé dans le cadre du cours de Culture et Enjeux du Numérique, 
 
 ## Accès au projet
 
-- [Site web du projet](URL_DU_SITE)
+- [Site web du projet](https://biais-des-ia.vercel.app)
 - [Google Doc](https://docs.google.com/document/d/1do4F02--yy_dtMN7orNQ8-BOH8LOyNEarocx9yeaQ5A/edit?usp=sharing)
 
 Le Google Doc contient notamment les fichiers bruts des résultats des expériences réalisées dans le cadre de cette enquête.
