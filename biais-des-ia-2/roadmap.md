@@ -1,0 +1,10 @@
+- [x] Replace the 12 INSEE estimates and cite the supplied source.
+- [x] Verify the updated comparison and saved-data migration.
+- [x] Rename the home page to "Avant-propos" in the sidebar.
+- [x] Restore the "Méthodologie" entry in the sidebar, page left empty.
+- [x] Fill the "Méthodologie" page once the user supplies its content.
+- [x] Fill Expérience 2 with real results.
+- [x] Fill Expérience 3 with real results (FEEL polarity).
+- [x] Fill the Bilan critique.
+- [x] Add Limites and Sources pages.
+- [x] Write Bilan critique (visual, literature vs results) and add Limites page.
